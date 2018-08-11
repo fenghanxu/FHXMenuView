@@ -1,0 +1,6 @@
+framework module FHXMenuView {
+  umbrella header "FHXMenuView-umbrella.h"
+
+  export *
+  module * { export * }
+}

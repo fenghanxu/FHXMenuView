@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'FHXMenuView_Example' do
+  pod 'FHXMenuView', :path => '../'
+
+  target 'FHXMenuView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

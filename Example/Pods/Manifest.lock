@@ -1,0 +1,19 @@
+PODS:
+  - FHXMenuView (0.1.0):
+    - SnapKit
+  - SnapKit (4.0.0)
+
+DEPENDENCIES:
+  - FHXMenuView (from `../`)
+
+EXTERNAL SOURCES:
+  FHXMenuView:
+    :path: ../
+
+SPEC CHECKSUMS:
+  FHXMenuView: ff4f0260a37a1e9d5e1f3595098913de541a5606
+  SnapKit: a42d492c16e80209130a3379f73596c3454b7694
+
+PODFILE CHECKSUM: ee0ed03e037e43787256eb3faf886eea21dfaff5
+
+COCOAPODS: 1.4.0
